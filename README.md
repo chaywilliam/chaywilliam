@@ -1,8 +1,4 @@
-<div>
-  <img align="right" height="590em" src="chay.svg"/>
-</div><hr/>
-  
-  <div align="center">
+ <div align="center">
   <h2>Olá, eu sou o Charles William</h2>
   <p>Desenvolvedor apaixonado por <strong>Data Science</strong> e <strong>Inteligência Artificial</strong></p>
 
